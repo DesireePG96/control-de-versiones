@@ -8,6 +8,8 @@ package geometria;
 /**
  *
  * @author javier
+ * @version 1.0
+ * @since 30-11-2021
  */
 public class Rectangulo implements FiguraGeometrica
 {
